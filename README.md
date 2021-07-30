@@ -4,7 +4,7 @@ Hello, my name is Randy!
 
 - 🌱 I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
 
-- 💞️ I’m looking to collaborate on any fun Data Science projects
+- I’m looking to collaborate on any fun Data Science projects
 
 You can reach out to me in the following ways:
 
