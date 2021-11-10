@@ -10,7 +10,7 @@ You can reach out to me in the following ways:
 
 📫 randy.a.french@gmail.com
 
-🖥 https://www.linkedin.com/in/randy-french/
+🖥 https://www.linkedin.com/in/randyafrench/
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=randyfrench&theme=algolia)](https://git.io/streak-stats)
