@@ -1,6 +1,6 @@
 Hello, my name is Randy!
 
-- 💻 I’m currently a Data Science student at Codeup! - soon to graduate on December 7th!
+- 💻 I graduated the Codeup Data Science program on December 7th!
 
 - 🌱 I’m learning SQL, Python 🐍, Tableau, Statistics 📈, and Storytelling
 
